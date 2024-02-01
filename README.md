@@ -36,7 +36,7 @@ The dashboard is powered by the Superstore dataset, a sample dataset provided by
 To explore the dashboard:
 
 1. Clone or download the repository.
-2. Open the Tableau workbook file (`sales.twbx`) using Tableau Desktop.
+2. Open the Tableau workbook file (`sales_tab.twb`) using Tableau Desktop.
 3. Customize the data connection as needed.
 4. Interact with the dashboard to analyze and explore the superstore sales data.
 
